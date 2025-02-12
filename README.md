@@ -8,12 +8,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Please don't judge me for this
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moinuddin95&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moinuddin95&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moinuddin95/moinuddin95/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moinuddin95/moinuddin95/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/moinuddin95/moinuddin95/output/github-snake.svg" />
+</picture>
 
 ---
 
