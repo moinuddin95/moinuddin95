@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Moinuddin Shaikh! 👋</h1>
+<h1 align="center">Hi there, I'm Moin! 👋</h1>
 
 ### 🚀 About Me
 
