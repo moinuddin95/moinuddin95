@@ -41,3 +41,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat&logo=gitbook&logoColor=white)](https://www.moinuddin.tech)
 
 Feel free to reach out for collaboration, inquiries, or just to chat!
+
+![Cool GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBzZGh3c2xnazVyY20ydWh4MWRtNnBiOXo3ZHR5empudHFqMHhtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QwCWU8FTmILK97N48k/giphy.gif)
+
