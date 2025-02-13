@@ -8,7 +8,7 @@
 
 ---
 
-### 📊 Please don't judge me for this
+### 📊 Gotta feed the snake more!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moinuddin95/moinuddin95/output/github-snake-dark.svg" />
