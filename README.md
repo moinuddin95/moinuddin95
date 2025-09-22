@@ -28,6 +28,7 @@
 
 ### 🎯 Featured Projects
 
+- 🤖 [**nocaps**](https://github.com/moinuddin95/nocaps) - A cli tool that helps debugging your code.
 - 🌐 [**GDG Sheridan Website**](https://github.com/moinuddin95/GDG-Sheridan) - A website for GDG Sheridan College events.
 - 🤖 [**AI Diary**](https://github.com/moinuddin95/AI-Diary) - A smart diary powered by AI.
 - 🚀 [**Polaris**](https://github.com/moinuddin95/Polaris) - An event navigation platform.
